@@ -50,8 +50,3 @@ public class HashSetToArrayList {
 
 ## Result:
 The program successfully converts a collection of distinct integers stored in a HashSet into an ArrayList
-
-
-
-## Result:
-The program successfully converts a collection of distinct integers stored in a HashSet into an ArrayList
